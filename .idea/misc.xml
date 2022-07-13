@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15185185185185185" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/drawable/boder.xml" value="0.15555555555555556" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15185185185185185" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/drawable/spinner.xml" value="0.125" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/drawable/text_spinner.xml" value="0.15185185185185185" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/activity_chitietsanpham.xml" value="0.165" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/activity_dienthoai.xml" value="0.125" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/activity_giohang.xml" value="0.1" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/activity_laptop.xml" value="0.19722222222222222" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/activity_lienhe.xml" value="0.1787037037037037" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/activity_thongtin.xml" value="0.25" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/activity_thongtinnguoidung.xml" value="0.2015625" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/dong_dienthoai.xml" value="0.125" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/dong_laptop.xml" value="0.19722222222222222" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/dong_listview_loaisp.xml" value="0.125" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/dong_sanpham_giohang.xml" value="0.165" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/dong_sanphammoinnhat.xml" value="0.125" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/layout/processbar.xml" value="0.19846153846153847" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/menu-v26/menugiohang.xml" value="0.2015625" />
+        <entry key="..\:/CuaHangThietBiOnline/app/src/main/res/menu/menugiohang.xml" value="0.2015625" />
+        <entry key="..\:/Download/CuaHangThietBiOnline/CuaHangThietBiOnline/app/src/main/res/layout/activity_dienthoai.xml" value="0.1721014492753623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

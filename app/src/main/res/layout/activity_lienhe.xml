@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Activity.LienheActivity"
+    android:background="@drawable/bgrou"
+    android:orientation="vertical">
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:textColor="#FF8400"
+            android:textSize="40sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Liên hệ với chúng tôi"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:background="@drawable/boder"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:padding="5dp"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/human" />
+            <TextView
+                android:layout_margin="10dp"
+                android:layout_gravity="center"
+                android:textSize="25sp"
+                android:text="Họ và tên: Tạ Minh Trí"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="50dp"
+            android:background="@drawable/boder"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:padding="5dp"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/iconemail" />
+            <TextView
+                android:layout_margin="10dp"
+                android:layout_gravity="center"
+                android:textSize="24sp"
+                android:text="Email: tmtri1911@gmail.com"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="50dp"
+            android:background="@drawable/boder"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:padding="5dp"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/iconphone" />
+            <TextView
+                android:layout_margin="10dp"
+                android:layout_gravity="center"
+                android:textSize="25sp"
+                android:text="Phone: 070680xxxx"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
